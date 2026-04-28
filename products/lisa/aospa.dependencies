@@ -1,7 +1,7 @@
 [
     {
-        "remote":       "pa-lisa",
-        "repository":   "paranoid-lisa/device_xiaomi_lisa",
+        "remote":       "lisa-trees",
+        "repository":   "device_xiaomi_lisa",
         "target_path":  "device/xiaomi/lisa",
         "revision":     "uvite"
     },
@@ -30,8 +30,8 @@
         "revision":     "uvite-888"
     },
     {
-        "remote":       "pa-lisa",
-        "repository":   "paranoid-lisa/kernel_xiaomi_lahaina",
+        "remote":       "lisa-trees",
+        "repository":   "kernel_xiaomi_lahaina",
         "target_path":  "kernel/xiaomi/lahaina",
         "revision":     "uvite"
     },
@@ -48,22 +48,22 @@
         "revision":     "uvite-SN100X-legacy"
     },
     {
-        "remote":       "pa-lisa",
-        "repository":   "paranoid-lisa/vendor_xiaomi_lisa",
+        "remote":       "lisa-trees",
+        "repository":   "vendor_xiaomi_lisa",
         "target_path":  "vendor/xiaomi/lisa",
         "revision":     "uvite",
         "clone-depth":  "1"
     },
     {
-        "remote":       "pa-lisa",
-        "repository":   "paranoid-lisa/vendor_xiaomi_camera",
+        "remote":       "lisa-trees",
+        "repository":   "vendor_xiaomi_camera",
         "target_path":  "vendor/xiaomi/camera",
         "revision":     "uvite-leica",
         "clone-depth":  "1"
     },
     {
-        "remote":       "pa-lisa",
-        "repository":   "paranoid-lisa/vendor_xiaomi_firmware",
+        "remote":       "lisa-trees",
+        "repository":   "vendor_xiaomi_firmware",
         "target_path":  "vendor/xiaomi/firmware",
         "revision":     "uvite",
         "clone-depth":  "1"
