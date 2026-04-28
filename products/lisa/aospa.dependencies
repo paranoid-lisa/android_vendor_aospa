@@ -6,8 +6,8 @@
         "revision":     "uvite"
     },
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_hardware_qcom_audio",
+        "remote":       "pa-lisa",
+        "repository":   "paranoid-lisa/android_hardware_qcom_audio",
         "target_path":  "vendor/qcom/opensource/audio-hal/primary-hal",
         "revision":     "uvite-888"
     },
