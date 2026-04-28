@@ -84,7 +84,7 @@ if [ $# -eq 0 ]; then
     showHelpAndExit
 fi
 export DEVICE="$1"; shift
-export FILE_NAME_TAG=eng.nobody
+export FILE_NAME_TAG=eng.$USER
 
 # Make sure we are running on 64-bit before carrying on with anything
 ARCH=$(uname -m | sed 's/x86_//;s/i[3-6]86/32/')
